@@ -42,7 +42,7 @@ namespace Karar_Yapıları
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            Urunu implement
+
 
         }
     }
